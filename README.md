@@ -1,6 +1,13 @@
 # ML.NET-MNIST
 This project uses MNIST from PyTorch torchvision dataset to create an ONNX model used to recognize Digits. It also contains a Visual C# Windows Forms Apps project to consume the model.
 
+<div align="center">
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/happybono/ML.NET-MNIST"> 
+<img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/happybono/ML.NET-MNIST">
+<img alt="GitHub Repo Languages" src="https://img.shields.io/github/languages/count/happybono/ML.NET-MNIST">
+<img alt="GitHub Top Languages" src="https://img.shields.io/github/languages/top/HappyBono/ML.NET-MNIST">
+</div>
+
 ## What's New
 ### May 29, 2020
 Initial release.
