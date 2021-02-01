@@ -1,5 +1,5 @@
 # ML.NET-MNIST
-This project uses MNIST from PyTorch torchvision dataset to create an ONNX model used to recognize Digits. It also contains a Visual C# Windows Forms Apps project to consume the model.
+This project uses MNIST from the PyTorch torchvision dataset to create an ONNX training model used to recognize handwriting digits. This also contains a Visual C# Windows Forms Apps project to consume the model.
 
 <div align="center">
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/happybono/ML.NET-MNIST"> 
