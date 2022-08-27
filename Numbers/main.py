@@ -6,7 +6,7 @@
    Presented On   http://www.happybono.net/
    C# .NET 사용자들을 위한 손글씨 인식 예시 소스 코딩 자료.
     
-   Copyright (R) 2018 - 2019.          
+   Copyright (R) 2018 - 20122.          
  
    =======================================================================================
  
@@ -128,7 +128,7 @@ def main():
     # If the input value is 1 or greater, the created artificial neural network code will transform the input layer to three layers.
     # As the layers get deeper, the number increases greatly. So it goes through a normalization process called Normalize, to optimise performance.
 
-    # 학습 데이타는 픽셀 값으로 이루어져 있으므로 값이 0 ~ 255 사이의 값인데 이걸 0.01 ~ 1.0 사이의 값으로 변환할 필요가 있습니다. 
+    # 학습 데이터는 픽셀 값으로 이루어져 있으므로 값이 0 ~ 255 사이의 값인데 이걸 0.01 ~ 1.0 사이의 값으로 변환할 필요가 있습니다. 
     # 컴퓨터가 계산하기 쉬운 행렬로 데이터를 만들어서 행렬 곱 계산이 필요한데요.
     # 기본 입력값이 0 일 경우 아예 계산이 되지 않고, 
     # 1 보다 크면 현재 만드는 인공 신경망 코드는 계층을 3 계층으로 생성하지만, 계층이 깊어지면 숫자가 무한급수적으로 증가합니다.
