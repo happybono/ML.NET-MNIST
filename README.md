@@ -26,21 +26,21 @@ Initial release.
 ## Getting Started
 ### Numbers.py
 1. Load the solution file in Visual Studio.
-2. Go to [Python Environments] Window and click on the ["Add environment"] button.
-3. Click on the [Existing Enviroment] tab and set Enviroment to [torch 3.7 64-bit].
-4. Right Click on the project title and Click on [Set as StartUp Project] on the popup-menu.
-5. Press [F5] to Execute and debug the project.
+2. Go to [ Python Environments ] Window and click on the [ "Add environment" ] button.
+3. Click on the [ Existing Enviroment ] tab and set Enviroment to [ torch 3.7 64-bit ].
+4. Right-click on the project title and Click on [ Set as StartUp Project ] on the popup menu.
+5. Press [ F5 ] to Execute and debug the project.
 
 ### Main.cs
-1. Right Click on the project title and Click on [Set as StartUp Project].
-2. Right Click on the project title and Click on [Manage Nuget Packages...] on the popup-menu.
-3. Search for the [Microsoft.ML.OnnxRuntime] package and install it.
+1. Right-click on the project title and Click on [ Set as StartUp Project ].
+2. Right-click on the project title and Click on [ Manage Nuget Packages... ] on the popup menu.
+3. Search for the [ Microsoft.ML.OnnxRuntime ] package and install it.
 4. Press [F5] to Execute and debug the project.
-5. Follow the instructions shown in an application.
+5. Follow the instructions shown in the application.
 
 ## How It Works
 1. **Initialize Components** : The main form initializes and sets up the InkCanvas where the user can draw digits.
-2. **Load Model** : An ONNX model is loaded for performing the digit recognition.
+2. **Load Model** : An ONNX model is loaded to perform the digit recognition.
 3. **Draw Digit** : Users draw digits on the InkCanvas.
 4. **Normalize Input** : The drawn digit is captured and normalized by dividing each pixel value by 255.
 5. **Predict Digit** : The normalized input is passed to the ONNX model which predicts the digit.
@@ -96,10 +96,10 @@ private float[] GetWrittenDigit(int size = 28)
 ```
 
 ## Usage
-- **Load Model :** Click on the [Load Model] button and select an ONNX model file.
+- **Load Model :** Click on the [ Load Model ] button and select an ONNX model file.
 - **Draw Digit :** Draw a digit on the InkCanvas.
-- **Recognize :** Click on the [Recognize] button to predict the drawn digit.
-- **Clear :** Click on the [Clear] button to clear the canvas and start again.
+- **Recognize :** Click on the [ Recognize ] button to predict the drawn digit.
+- **Clear :** Click on the [ Clear ] button to clear the canvas and start again.
 
 ## Copyright
 Copyright ⓒ HappyBono 2021 - 2025. All rights Reserved.
