@@ -108,5 +108,5 @@ Copyright ⓒ HappyBono 2020 - 2025. All rights Reserved.
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgements
-This project references classes from:
+This project references classes from :
 [Basic MNIST Example from GitHub (PyTorch)](https://github.com/pytorch/examples/tree/main/mnist)
