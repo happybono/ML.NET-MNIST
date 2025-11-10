@@ -1,5 +1,5 @@
 # ML.NET-MNIST
-The NumberSage project is a C# application that recognizes handwritten digits using a pre-trained ONNX model. The project leverages the Windows InkCanvas for drawing and Microsoft’s Machine Learning libraries for prediction.
+The ML.NET-MNIST (NumberJangi) project is a C# application that recognizes handwritten digits using a pre-trained ONNX model. The project leverages the Windows InkCanvas for drawing and Microsoft’s Machine Learning libraries for prediction.
 
 <div align="center">
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/happybono/ML.NET-MNIST"> 
