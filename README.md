@@ -9,8 +9,9 @@ The ML.NET-MNIST (NumberJangi) project is a C# application that recognizes handw
 </div>
 
 ## What's New
-### May 29, 2020
-Initial release.
+### v1.0.0.0
+#### May 29, 2020
+> Initial release.
 
 ## Features
 - Draw digits on the InkCanvas.
