@@ -103,7 +103,7 @@ private float[] GetWrittenDigit(int size = 28)
 - **Clear :** Click on the [ Clear ] button to clear the canvas and start again.
 
 ## Copyright
-Copyright ⓒ HappyBono 2020 - 2025. All rights Reserved.
+Copyright ⓒ HappyBono 2020 - 2026. All rights Reserved.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
